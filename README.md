@@ -1,12 +1,12 @@
-<h2 align="left">Jakov Spirovski</h2>
+<h2 align="left">🎴Jakov Spirovski</h2>
 
 ###
 
-<p align="left">About Me<br><br>👨🏻‍💻 Software Dev trying to innovate in the world of Mobile Apps<br>🎓 Currently studying at Faculty of Computer Science and Engineering<br>📍 Skopje, Macedonia</p>
+<p align="left">👨🏻‍💻 Software Dev trying to innovate in the world of Mobile Apps<br>🎓 Currently studying at Faculty of Computer Science and Engineering<br>📍 Skopje, Macedonia</p>
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">💻 Languages and Tools</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">🌐 Contact Me</h2>
 
 ###
 
@@ -41,22 +41,17 @@
   <a href="https://www.linkedin.com/in/jakov-spirovski-9368a8334/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="dokicaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="jakovspirovski.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
+
+###
+
+<h2 align="left">📈Stats for nerds</h2>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dokicaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dokicaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dokicaaa/dokicaaa/output/snake.svg" alt="Snake animation" />
 
 ###
