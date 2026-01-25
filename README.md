@@ -6,7 +6,7 @@
 
 ####
 
-[Portfolio Website](https://jakovspirovski.me/)
+[Portfolio Website](https://jakovspirovski.dev/)
 
 ###
 
